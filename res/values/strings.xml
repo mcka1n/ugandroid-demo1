@@ -6,5 +6,6 @@
     <string name="hello_world">What up Android!</string>
     <string name="btn_search">Buscar</string>
     <string name="btn_open_activity">Abrir otra actividad</string>
+    <string name="title_activity_show_search_query">ShowSearchQueryActivity</string>
 
 </resources>
